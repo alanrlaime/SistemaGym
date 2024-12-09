@@ -230,7 +230,7 @@ public class CentroControl extends javax.swing.JFrame {
         jPanel5.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
         jLabel1.setFont(new java.awt.Font("Segoe UI Black", 0, 36)); // NOI18N
-        jLabel1.setText("CENTRO DE CONTROL:");
+        jLabel1.setText("GATOS");
         jLabel1.setPreferredSize(new java.awt.Dimension(402, 30));
         jPanel5.add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(6, 6, -1, 38));
 
@@ -263,10 +263,8 @@ public class CentroControl extends javax.swing.JFrame {
         jComboBox1.setFont(new java.awt.Font("Microsoft JhengHei UI", 0, 14)); // NOI18N
         jComboBox1.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Gimnacio 1", "Gimnacio 2", "Gimnacio 3" }));
         jComboBox1.setToolTipText("");
-        jComboBox1.setBorder(null);
         jComboBox1.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
         jComboBox1.setKeySelectionManager(null);
-        jComboBox1.setOpaque(true);
 
         jButton1.setText("jButton1");
 
